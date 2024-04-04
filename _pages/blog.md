@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
+title: Blog
 nav: true
 nav_order: 1
 pagination:
@@ -24,11 +24,12 @@ pagination:
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
   <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
+    <h1>theorima film blog</h1>
+    <h2></h2>
   </div>
   {% endif %}
 
+<!--
 {% if site.display_tags or site.display_categories %}
 
   <div class="tag-category-list">
@@ -55,6 +56,7 @@ pagination:
     </ul>
   </div>
   {% endif %}
+ -->
 
 {% assign featured_posts = site.posts | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}

@@ -17,6 +17,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-family: "Averia Serif Libre", "M PLUS Rounded 1c", sans-serif;
 }
 
 hr {
@@ -154,7 +155,7 @@ ul.task-list input[type="checkbox"] {
 
 .caption {
   font-size: 0.875rem;
-  margin-top: 0.75rem;
+  margin-top: 0.05rem;
   margin-bottom: 1.5rem;
   text-align: center;
 }
@@ -513,6 +514,21 @@ footer.sticky-bottom {
     color: var(--global-theme-color);
     font-size: 5rem;
   }
+}
+
+.header-bar-small {
+  border-bottom: 1px solid var(--global-divider-color);
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+
+  h1 {
+    font-size: 3rem;
+  }
+}
+
+.bottom-border {
+	border-bottom: 1px solid var(--global-divider-color);
 }
 
 .tag-category-list {
