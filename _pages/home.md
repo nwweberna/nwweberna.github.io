@@ -8,7 +8,7 @@ subtitle: On what it is, and what it is not
 ### What it **is**
 Stated precisely, theorima film lab is a collection of filmmakers with a cardinality of one[^1]. Like any proper collection of filmmakers, theorima film lab's primary concern is the research and development of moving pictures. No common thread ties together the films produced at theorima, except for the thinnest and loosest one: a strict adherence to a set of "well-defined" guiding principles, which, if they must be stated, might as well be stated here: 
 * (*P1*) If it can be expressed in words, clearly and completely, then there's no need to make a film on it.  
-* (*P2*) Films raise questions, but if their answers are to be truthful, they must come in the form of contradiction and ambiguity.
+* (*P2*) Films raise questions, but their answers must come in the form of contradiction and ambiguity if they are to be truthful.
 * (*P3*) The ideal final goal of a film is to create, in its own way, new pathways of thought and feeling. 
 
 This is what theorima is, more or less. If either confusion or curiosity remains, please see [this]({% link _pages/profiles.md %}) page for inquiries and contact info. 
