@@ -6,12 +6,16 @@ subtitle: On what it is, and what it is not
 ---
 
 ### What it **is**
-Stated precisely, theorima film lab is a collection of filmmakers with a cardinality of one[^1]. Like any proper collection of filmmakers, theorima film lab's primary concern is the research and development of moving pictures. No common thread ties together the films produced at theorima, except for the thinnest and loosest one: a strict adherence to a set of "well-defined" guiding principles, which, if they must be stated, might as well be stated here: 
-* (*P1*) If it can be expressed in words, clearly and completely, then there's no need to make a film on it.  
-* (*P2*) Films raise questions, but their answers must come in the form of contradiction and ambiguity if they are to be truthful.
-* (*P3*) The ideal final goal of a film is to create, in its own way, new pathways of thought and feeling. 
+Theorima film lab is a research project aimed at exploring new avenues of thought through the medium of the moving picture. 
 
-This is what theorima is, more or less. If either confusion or curiosity remains, please see [this]({% link _pages/profiles.md %}) page for inquiries and contact info. 
+No common thread ties together the films produced at theorima, except for the thinnest and loosest one--a strict adherence to a set of guiding axioms. 
+If these axioms are to be stated, there is likely no better place to do it than right here:
+
+* (*P1*) There are non-trivial truths of a contradictory nature. 
+* (*P2*) Films are uniquely equipped to both express, question, and address these contradictory truths. 
+* (*P3*) To articulate a contradiction is to open up a new way of thinking.
+
+This is what theorima is, more or less[^1]. If either confusion or curiosity remains, please see [this]({% link _pages/profiles.md %}) page for inquiries and contact info. 
 
 
 ### What it is **not**
@@ -20,6 +24,6 @@ There are many things which theorima is *not*[^2]; most importantly theorima is 
 <div class="bottom-border"></div>
 <br>
 #### Footnotes
-[^1]: Most texts on set theory are in agreement that a set with a single instance is still a set. 
+[^1]: There's also blog posts, but that should just be taken as a given at this point. 
 [^2]: Theorima is not, for example: *a building*, *an ideal*, *a 501(c)(3) non profit organization*, *a botany club*, *a theory of differentiable surfaces*, *a recipe for banana bread*, and so on. 
 [^3]: Please be aware, due to lack of storage, any film negatives sent to our facilities will have to be disposed of within 2 weeks; negatives of *Eat, Pray, Love* will be disposed of immediately.
