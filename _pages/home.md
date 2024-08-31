@@ -1,7 +1,7 @@
 ---
 layout: abouthome
 title: About
-permalink: /
+permalink: /aboutold/
 subtitle: On what it is, and what it is not
 ---
 

@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: theorima film lab # the website title (if blank, full name will be used instead)
+title: noah w. weber # the website title (if blank, full name will be used instead)
 first_name: Noah 	
 middle_name: W.
 last_name: Weber 
@@ -93,7 +93,7 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: # your instagram id
+instagram_id: noahweberfilm # your instagram id
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
@@ -120,7 +120,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: theorima film lab # blog_name will be displayed in your blog page
+blog_name: film blog # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 

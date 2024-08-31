@@ -1,10 +1,8 @@
 ---
 layout: page
-permalink: /films/
+permalink: /
 title: Films
 description: An almost complete list of films. 
-nav: true
-nav_order: 9
 ---
 
 <!-- _pages/publications.md -->
