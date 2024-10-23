@@ -24,7 +24,7 @@ images:
 An investigation into the feasibility of roller-skating in the 21st century
 
 ##### Brief Credits
-Cast: Leena Shekhar | Direction: NW Weber
+Cast: Leena Shekhar | Direction: Noah W. Weber
 
 ##### Specs
 2021 | 3 minutes 10 seconds | 1.78:1 
