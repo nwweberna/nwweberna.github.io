@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nwweberna.github.io/sitemap.xml
+Sitemap: https://noahweberfilm.com/sitemap.xml
