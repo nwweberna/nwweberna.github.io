@@ -26,7 +26,7 @@ description: An almost complete list of films.
     -->
     
 
-<img src="/assets/img/pigs.gif" class="z-depth-1 rounded" width="100%" height="auto" alt="wave-mechanics.gif" loading="eager">
+<img src="/assets/img/films/pigs/pigs1.png" class="z-depth-1 rounded" width="100%" height="auto" alt="pigs1.png" loading="eager">
   </picture>
 </figure>
 
@@ -71,7 +71,7 @@ description: An almost complete list of films.
     -->
     
 
-<img src="/assets/img/zindagi2.gif" class="z-depth-1 rounded" width="100%" height="auto" alt="wave-mechanics.gif" loading="eager">
+<img src="/assets/img/films/zindagi/zindagi2.png" class="z-depth-1 rounded" width="100%" height="auto" alt="zindagi7.png" loading="eager">
   </picture>
 </figure>
 
@@ -99,6 +99,7 @@ description: An almost complete list of films.
 <!-- END FOR SINGLE ENTRY -->
 
 
+<!--
 
 <h2 class="bibliography">2022</h2>
 <ol class="bibliography"><li>
@@ -108,23 +109,16 @@ description: An almost complete list of films.
 <div class="col-sm-4">
 <figure>
   <picture>
-    <!-- Auto scaling with imagemagick -->
-    <!--
-      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
-      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
-    -->
     
 
-<img src="/assets/img/flying2.gif" class="z-depth-1 rounded" width="100%" height="auto" alt="flying1.gif" loading="eager">
+<img src="/assets/img/films/flying/flying7.png" class="z-depth-1 rounded" width="100%" height="auto" alt="flying7.png" loading="eager">
   </picture>
 </figure>
 
 </div>
   
 
-  <!-- Entry bib key -->
   <div id="flying" class="col-sm-8">
-    <!-- Title -->
     <div class="title"><b>"A Flying Man"</b></div>
  <div class="periodical">
       <em>Narrative Short</em>
@@ -139,7 +133,9 @@ description: An almost complete list of films.
 </div>
 </a>
 </li></ol>
+-->
 
+<!--
 <h2 class="bibliography">2021</h2>
 <ol class="bibliography"><li>
 <a href="/films/leisure">
@@ -148,12 +144,7 @@ description: An almost complete list of films.
 <div class="col-sm-4">
 <figure>
   <picture>
-    <!-- Auto scaling with imagemagick -->
-    <!--
-      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
-      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
-    -->
-    
+      
 
 <img src="/assets/img/leisure1.gif" class="z-depth-1 rounded" width="100%" height="auto" alt="leisure.gif" loading="eager">
   </picture>
@@ -162,9 +153,7 @@ description: An almost complete list of films.
 </div>
   
 
-  <!-- Entry bib key -->
   <div id="leisure" class="col-sm-8">
-    <!-- Title -->
     <div class="title"><b>"Adventures in Leisure"</b></div>
  <div class="periodical">
       <em>Experimental Short</em>
@@ -179,7 +168,7 @@ description: An almost complete list of films.
 </div>
 </a>
 </li></ol>
-
+-->
 
 
 </div>
