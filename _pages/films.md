@@ -8,6 +8,51 @@ description: An almost complete list of films.
 <!-- _pages/publications.md -->
 <div class="publications">
 
+<!-- START FOR SINGLE ENTRY -->
+
+<h2 class="bibliography">2025</h2>
+<ol class="bibliography"><li>
+<a href="/films/riyaaz/">
+<div class="row">
+
+<div class="col-sm-4">
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+
+<img src="/assets/img/riyaaz4.png" class="z-depth-1 rounded" width="100%" height="auto" alt="riyaaz1.png" loading="eager">
+  </picture>
+</figure>
+
+</div>
+  
+
+  <!-- Entry bib key -->
+  <div id="riyaaz" class="col-sm-8">
+    <!-- Title -->
+    <div class="title"><b>"Riyaaz (Views from a musical lens)"</b></div>
+ <div class="periodical">
+      <em>Experimental Documentary Short</em>
+    </div>
+
+    
+    <div class="periodical">
+     	Length: 20 min 
+    </div>
+    
+  </div>
+</div>
+</a>
+</li></ol>
+
+<!-- END FOR SINGLE ENTRY -->
+
+
 
 <!-- START FOR SINGLE ENTRY -->
 
