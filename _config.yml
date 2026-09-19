@@ -2,19 +2,19 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Noah W Weber # the website title (if blank, full name will be used instead)
+title: noah w weber # the website title (if blank, full name will be used instead)
 first_name: Noah 	
 middle_name: W
 last_name: Weber 
 email: nwweberna@gmail.com
-description: Noah W Weber Films
+description: Noah W Weber Film
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: film, movies, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: tfl.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://noahweberfilm.com # the base hostname & protocol for your site
+url: https://noahwweber.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -93,7 +93,7 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: noahweberfilm # your instagram id
+instagram_id: noahwweber # your instagram id
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
