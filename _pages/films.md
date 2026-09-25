@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /
-title: Films
-description: An almost complete list of films. 
+title: Film Projects 
+description: A list of videos/movie/film projects to peruse at your leisure.
 ---
 
 <!-- _pages/publications.md -->
@@ -25,7 +25,7 @@ description: An almost complete list of films.
     -->
     
 
-<img src="/assets/img/riyaaz4.png" class="z-depth-1 rounded" width="100%" height="auto" alt="riyaaz1.png" loading="eager">
+<img src="/assets/img/riyaaz2copy.jpeg" class="z-depth-1 rounded" width="100%" height="auto" alt="riyaaz1.png" loading="eager">
   </picture>
 </figure>
 
@@ -53,9 +53,8 @@ description: An almost complete list of films.
 <!-- END FOR SINGLE ENTRY -->
 
 
-
 <!-- START FOR SINGLE ENTRY -->
-
+<!--
 <h2 class="bibliography">2024</h2>
 <ol class="bibliography"><li>
 <a href="/films/pigs/">
@@ -64,11 +63,6 @@ description: An almost complete list of films.
 <div class="col-sm-4">
 <figure>
   <picture>
-    <!-- Auto scaling with imagemagick -->
-    <!--
-      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
-      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
-    -->
     
 
 <img src="/assets/img/films/pigs/pigs1.png" class="z-depth-1 rounded" width="100%" height="auto" alt="pigs1.png" loading="eager">
@@ -78,9 +72,7 @@ description: An almost complete list of films.
 </div>
   
 
-  <!-- Entry bib key -->
   <div id="pigs" class="col-sm-8">
-    <!-- Title -->
     <div class="title"><b>"Pigs Fly (And Gods Cry)"</b></div>
  <div class="periodical">
       <em>Narrative Short</em>
@@ -96,8 +88,7 @@ description: An almost complete list of films.
 </a>
 </li></ol>
 
-<!-- END FOR SINGLE ENTRY -->
-
+-->
 
 <!-- START FOR SINGLE ENTRY -->
 
@@ -116,7 +107,7 @@ description: An almost complete list of films.
     -->
     
 
-<img src="/assets/img/films/zindagi/zindagi2.png" class="z-depth-1 rounded" width="100%" height="auto" alt="zindagi7.png" loading="eager">
+<img src="/assets/img/films/zindagi/zindagi10.png" class="z-depth-1 rounded" width="100%" height="auto" alt="zindagi10.png" loading="eager">
   </picture>
 </figure>
 
