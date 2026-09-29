@@ -2,7 +2,7 @@
 layout: page
 permalink: /
 title: Film Projects 
-description: A list of video/movie/film projects.
+description: A list of movie/film/vid projects.
 ---
 
 <!-- _pages/publications.md -->
