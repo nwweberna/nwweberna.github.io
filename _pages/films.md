@@ -2,11 +2,57 @@
 layout: page
 permalink: /
 title: Film Projects 
-description: A list of videos/movie/film projects to peruse at your leisure.
+description: A list of video/movie/film projects.
 ---
 
 <!-- _pages/publications.md -->
 <div class="publications">
+
+<!-- START FOR SINGLE ENTRY -->
+
+<h2 class="bibliography">2026</h2>
+<ol class="bibliography"><li>
+<a href="/films/chron/">
+<div class="row">
+
+<div class="col-sm-4">
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+
+<img src="/assets/img/films/chron/chron_cap1.jpeg" class="z-depth-1 rounded" width="100%" height="auto" alt="riyaaz1.png" loading="eager">
+  </picture>
+</figure>
+
+</div>
+  
+
+  <!-- Entry bib key -->
+  <div id="chron" class="col-sm-8">
+    <!-- Title -->
+    <div class="title"><b>"Chronosagnosia"</b></div>
+ <div class="periodical">
+      <em>Experimental Narrative Short</em>
+    </div>
+
+    
+    <div class="periodical">
+     	Length: 11 min 
+    </div>
+    
+  </div>
+</div>
+</a>
+</li></ol>
+
+<!-- END FOR SINGLE ENTRY -->
+
+
 
 <!-- START FOR SINGLE ENTRY -->
 

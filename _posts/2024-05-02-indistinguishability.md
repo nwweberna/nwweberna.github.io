@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: The Irrelevance of Indistinguishability   
-description: Some quick notes on the irrelevance of Turing-like tests for differentiating the creations of humans and machines.
+description: Some quick notes on the irrelevance of Turing-like tests for differentiating the creations of humans and machines. On why it is an existential division, of which there can be no external criteria. 
 tags: 
 date: 2024-05-02
 featured: false

@@ -2,7 +2,7 @@
 layout: default
 permalink: /blog/
 title: Blog
-nav: true
+nav: false
 nav_order: 1
 pagination:
   enabled: true
@@ -24,7 +24,7 @@ pagination:
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
   <div class="header-bar">
-    <h1>theorima film blog</h1>
+    <h1>blog</h1>
     <h2></h2>
   </div>
   {% endif %}

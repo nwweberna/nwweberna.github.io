@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: A Presupposition of the Machine Culture
-description: A brief overview of a key presupposition regarding the notion of AI art
+description: A brief overview of a key presupposition regarding the fallacious notion of AI art
 tags: 
 date: 2024-03-29
 featured: false
